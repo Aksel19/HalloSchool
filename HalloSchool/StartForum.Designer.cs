@@ -1,6 +1,6 @@
 ﻿namespace HalloSchool
 {
-    partial class Form1
+    partial class StartForum
     {
         /// <summary>
         /// Required designer variable.
